@@ -20,6 +20,7 @@ packages:
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
 - name: JMS2waySSL
+  version: "1.0"
   gitServerName: kvv
   gitUrl: https://github.com/prabhakarsag
   gitUsername: Karthik-V-IBM-10
